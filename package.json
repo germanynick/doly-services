@@ -10,6 +10,7 @@
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
+    "prestart": "yarn db:run",
     "start:dev": "nest start --watch",
     "prestart:dev": "yarn db:run",
     "start:debug": "nest start --debug --watch",
