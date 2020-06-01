@@ -1,0 +1,10 @@
+{
+  "name": "default",
+  "type": "sqlite",
+  "database": "data/local.db",
+  "entities": ["dist/**/*.entity.js"],
+  "migrations": ["dist/migrations/**/*.js"],
+  "cli": {
+    "migrationsDir": "src/migrations"
+  }
+}
