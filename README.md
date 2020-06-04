@@ -4,63 +4,63 @@
 >
 > ### Frontend Stack [https://github.com/germanynick/doly-web](https://github.com/germanynick/doly-web)
 >
-> [x] ReactJS ([CRA](https://github.com/facebook/create-react-app))
-> [x] React Hooks ([react-use](https://streamich.github.io/react-use))
-> [x] Typescript
-> [x] Less && Antd (UI Components)
-> [x] Craco (**C**reate **R**eact **A**pp **C**onfiguration **O**verride)
-> [x] i18next (localization & internalization)
-> [ ] Storybook
-> [ ] ...
+> - [x] ReactJS ([CRA](https://github.com/facebook/create-react-app))
+> - [x] React Hooks ([react-use](https://streamich.github.io/react-use))
+> - [x] Typescript
+> - [x] Less && Antd (UI Components)
+> - [x] Craco (**C**reate **R**eact **A**pp **C**onfiguration **O**verride)
+> - [x] i18next (localization & internalization)
+> - [ ] Storybook
+> - [ ] ...
 >
 > #### Alternatives:
 >
-> [ ] NextJS, Gatsby
-> [ ] Recoil
-> [ ] GraphQL
-> [ ] styled-components, styled-system
-> [ ] Redux, redux-observable, redux-saga, redux-thunk
-> [ ] Mobx
+> - [ ] NextJS, Gatsby
+> - [ ] Recoil
+> - [ ] GraphQL
+> - [ ] styled-components, styled-system
+> - [ ] Redux, redux-observable, redux-saga, redux-thunk
+> - [ ] Mobx
 >
 > ### Backend Stack [https://github.com/germanynick/doly-services](https://github.com/germanynick/doly-services)
 >
-> [x] NestJs (Nodejs Framework)
-> [x] Typescript
-> [x] Typeorm (Database ORM & Migration)
-> [x] Passport (JWT Authentication - Support Zalo Login)
-> [ ] Transporter (NATS, KAFKA.... Support Event Driven Architecture)
-> [ ] Activity Methodology
-> [ ] Caching
-> [ ] Logger
-> [ ] Task Scheduler (Background Jobs)
-> [ ] ...
+> - [x] NestJs (Nodejs Framework)
+> - [x] Typescript
+> - [x] Typeorm (Database ORM & Migration)
+> - [x] Passport (JWT Authentication - Support Zalo Login)
+> - [ ] Transporter (NATS, KAFKA.... Support Event Driven Architecture)
+> - [ ] Activity Methodology
+> - [ ] Caching
+> - [ ] Logger
+> - [ ] Task Scheduler (Background Jobs)
+> - [ ] ...
 >
 > #### Alternatives:
 >
-> [ ] MoleculerJS ([official-link](https://moleculer.services))
-> [ ] MongoDB, Mongoose
-> [ ] Apollo Server
-> [ ] styled-components, styled-system
-> [ ] Redux, redux-observable, redux-saga, redux-thunk
-> [ ] Mobx
-> [ ] ...
+> - [ ] MoleculerJS ([official-link](https://moleculer.services))
+> - [ ] MongoDB, Mongoose
+> - [ ] Apollo Server
+> - [ ] styled-components, styled-system
+> - [ ] Redux, redux-observable, redux-saga, redux-thunk
+> - [ ] Mobx
+> - [ ] ...
 >
 > ### DevOps Stack (Not ready yet)
 >
-> [ ] Docker
-> [ ] Docker Compose (Local Deployment)
-> [ ] Kubernetes
-> [ ] CI/CD
-> [ ] ...
+> - [ ] Docker
+> - [ ] Docker Compose (Local Deployment)
+> - [ ] Kubernetes
+> - [ ] CI/CD
+> - [ ] ...
 >
 > :warning: **If you want to access all system, please run bold backend & frontend!**: Otherwise, you just only access public features.
 
 > ### Criteria
 >
-> :zap: Support Enterprise Application
-> :zap: Clear code structure
-> :zap: Maintainable & Readable & Performace
-> :zap: ....
+> - :zap: Support Enterprise Application
+> - :zap: Clear code structure
+> - :zap: Maintainable & Readable & Performace
+> - :zap: ....
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
