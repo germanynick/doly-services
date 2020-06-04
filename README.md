@@ -1,3 +1,26 @@
+> ## Project Information
+>
+> This is a personal project that includes:
+>
+> ### Frontend Stack [https://github.com/germanynick/doly-web](https://github.com/germanynick/doly-web)
+>
+> - ReactJS (create-react-app)
+> - Typescript
+> - Less && Antd (UI Components)
+> - Craco (**C**reate **R**eact **A**pp **C**onfiguration **O**verride)
+> - i18next (localization & internalization)
+> - ...
+>
+> ### Backend Stack [https://github.com/germanynick/doly-services](https://github.com/germanynick/doly-services)
+>
+> - NestJs (Nodejs Framework)
+> - Typescript
+> - Typeorm (Database ORM & Migration)
+> - Passport (JWT Authentication - Support Zalo Login)
+> - ...
+>
+> :warning: **If you want to access all system, please run backend services!**: Otherwise, you just only access public features.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
